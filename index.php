@@ -1,3 +1,5 @@
 <?php
 
-define('PUPLICURL', 'http://example.com');
+define('PUPLICURL', 'http://puplic.example.com');
+
+echo(PUPLICURL);
